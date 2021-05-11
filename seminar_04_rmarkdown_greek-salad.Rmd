@@ -1,0 +1,42 @@
+---
+title: "How to prepare a wonderful **Greek salad**."
+author: "by J. Vogelsang"
+date: "May, 4th 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The ingredients:
+
+### For the salad
+
+* $1/4$ Cucumber
+* $2$ Tomatoes
+* $1$ Sweep paprika
+* $1/4$ Onion
+* $1/2$ Feta cheese
+* Some olives
+
+### For the sauce
+
+* Olive oil
+* Balsamic vinegar
+* Herbes de Provence
+* Salt
+* Pepper
+* Optional: sunflower or pumpkin seeds
+
+### The preparation
+
+Cut the ingredients for the salad in small pieces. Than add the ingredients for the sauce and mix everything well. Now give the salad some time to marinate. Serve after $15$ minutes.
+
+### Even Plato knew:
+
+> Greek salad is the best!
+
+# More information about [Greek salad](https://www.loveandlemons.com/greek-salad/)
+
+![Enjoy!](C:\Users\Johannes\Desktop\salad.jpg)
